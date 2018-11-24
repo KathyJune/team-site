@@ -1,3 +1,3 @@
 # theam-site
 智能时空与服务团队
- [demo](https://KathyJune/team-site.git/home.html)   
+ [demo](https://kathyjune.github.io/team-site/home.html)   
