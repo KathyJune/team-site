@@ -1,4 +1,3 @@
-# TeamSite.github.io
- flex-add
-这是一个关于flexbox基础的骰子布局
- [demo](http://kathyjune.github.io/TeamSite.github.io/home.html)   
+# theam-site
+智能时空与服务团队
+ [demo](https://github.com/KathyJune/team-site/home.html)   
